@@ -20,6 +20,17 @@ html {
 body {
     font-size : 1.6rem;
 }
+
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit; /* 1 */
+  font-size: inherit; /* 1 */
+  line-height: inherit; /* 1 */
+}
+
 `
 
 export default GlobalStyle
