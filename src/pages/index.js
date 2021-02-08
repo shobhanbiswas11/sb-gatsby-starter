@@ -1,5 +1,5 @@
 import React from "react"
-import { Home } from "src/containers"
+import { Home } from "../containers"
 
 export default function IndexPage() {
   return <Home />
